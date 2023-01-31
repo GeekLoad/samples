@@ -1,1 +1,1 @@
-# Welcome to the public collection of examples for GeekLoad!
+# Welcome to the collection of examples for GeekLoad!
